@@ -1,6 +1,6 @@
 # news_snack
 
-A new Flutter project.
+A new Flutter project, I created a News-App using Newsapi.org.Which have functionality like show the headline of news and show the description and Images of the news.
 
 ## Getting Started
 
